@@ -5,32 +5,32 @@ const categories = [
   {
     id: 1,
     title: "Phone charm",
-    imageUrl: "https://scontent.flhe3-1.fna.fbcdn.net/v/t1.15752-9/519894911_714475251579504_5877990080543201547_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=FzDbnPd79yQQ7kNvwFpPz_C&_nc_oc=AdmOh1fQU9BVFva2LTNObtj6iUBqaxQQuEYTJZE8li5X-uzXkp34dHTk5KxBFFQX3Zg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe3-1.fna&oh=03_Q7cD2wFz1s0zTWn6h3XKqIGQV9xCTyOvNe5iy2BSIgXXs89U0Q&oe=68A473AB"
+    imageUrl: "https://scontent.flhe7-1.fna.fbcdn.net/v/t1.15752-9/520316640_739284315509283_8235616515268146188_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=H95HpV8pj3MQ7kNvwH-igP-&_nc_oc=Admi3G8wZnqbxfNpd2HErFX0VRjsdUVhDW-W3CPcSfPMuxrAqdBJHDCZSQ90QcZEOYQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-1.fna&oh=03_Q7cD3AEG37oMHw9U-GUFuYqF9Ad2DH4qxIqzAM2VXxBA-wbFag&oe=68CEA851"
   },
     {
     id: 2,
     title: "Arm cuff",
-    imageUrl: "https://scontent.flhe7-2.fna.fbcdn.net/v/t1.15752-9/518872764_2112236285933772_3598642941186150970_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=zw5gAhXJyb0Q7kNvwFuIW-U&_nc_oc=AdkPMfheZp8eN1CmI169itorL0wsq9qVdF3V9Zv4XQOfY5u8It4VKMFSiCDeh9zo6C0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-2.fna&oh=03_Q7cD2wH84NMdygljraS0kAusoEbroghPVl9Wwv9b6B-ete1tmw&oe=68A46713"
+    imageUrl: "https://scontent.flhe7-2.fna.fbcdn.net/v/t1.15752-9/518872764_2112236285933772_3598642941186150970_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=rLqs4KV7p6YQ7kNvwFYRk1U&_nc_oc=Adk0IIeSm74uFfjSULJrgpWRjLDqbQc6PHJ4fHpxS-Ffrm_orqS4kd6lQbowLoiPwLU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-2.fna&oh=03_Q7cD3AEzmMp4InyaEJm9eio-8E0naLczJsQsJ2p9mmzVGrXuPA&oe=68CE9713"
   },
   {
     id: 3,
     title: "Bracelet",
-    imageUrl: "https://scontent.flhe7-2.fna.fbcdn.net/v/t1.15752-9/519448546_1180836197138410_8348523087325743602_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=tmCm8-pV1skQ7kNvwF4Bk3l&_nc_oc=AdmnczHm9mjGrIaMnqrS56Pg7GDvkJiS6VBHH86BqAn3jZxJ786uE5T5-yo-G456-pU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-2.fna&oh=03_Q7cD2wGLOsk6i15SAqG2_5Yy2gUzUtMpXrlMB2sBo_r4OAvpYg&oe=68A47547"
+    imageUrl: "https://scontent.flhe7-2.fna.fbcdn.net/v/t1.15752-9/519162040_1439721110565854_7224674274541967288_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_ohc=WeCdFgZj-AQQ7kNvwGtYuSc&_nc_oc=Admr7zO3V6XcVBcnhne70gR6eL_jOBMcuO3iHlirETupNs5gbYYlm1C5XjDDii6M_zc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-2.fna&oh=03_Q7cD3AGf1jVe_YZcDxthPDkgKmU6ohlpRyXBGLq6PvIIUD5WLQ&oe=68CE9744"
   },
     {
     id: 4,
     title: "Bookmarks",
-    imageUrl: "https://scontent.flhe3-2.fna.fbcdn.net/v/t1.15752-9/523296752_1458911468463243_3121384784033634617_n.png?stp=dst-png_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=jwDncDVNFPwQ7kNvwFv_EXZ&_nc_oc=AdlQdGe2JNijLLcf6BfGOOBUpdhlXmt2SHLwip-bFU4J9ueZVvPzn18184w5YEaqkMQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe3-2.fna&oh=03_Q7cD2wFyIzu5mfNgU7TQQ4lmPvuCBLHASkew_I4QBXQjpzjrMA&oe=68A6F448"
+    imageUrl: "https://scontent.flhe3-2.fna.fbcdn.net/v/t1.15752-9/523296752_1458911468463243_3121384784033634617_n.png?stp=dst-png_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_ohc=k4zcz4E-Tp4Q7kNvwF6KbWD&_nc_oc=AdlGoXwntadR5pg2uz6n_1TkG4DwqVbrzXsg7wMdDanJ5eCnw_reoi_8WxNXC1bCexw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe3-2.fna&oh=03_Q7cD3AGvRRHUUhtPTMzKLowkLpziNXyBnUEncwLVS-boXOkIrA&oe=68CEB988"
   },
       {
     id: 5,
     title: "Necklaces",
-    imageUrl: "https://scontent.flhe7-2.fna.fbcdn.net/v/t1.15752-9/518732106_1432521157784810_4236191864935155782_n.png?stp=dst-png_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=tY23y7RcPVkQ7kNvwETTd99&_nc_oc=AdmAXxY14GwijR5SdLdd6qPinAVyun4ZG-uc7RDRU-HfXsE9_FD8cpSQZJduIrXt7jI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-2.fna&oh=03_Q7cD2wEWRYBQWTSS5xeTFUQ2tTi3cPdddpe_k1FiKeBoftMdkg&oe=68A6EDAB"
+    imageUrl: "https://scontent.flhe7-2.fna.fbcdn.net/v/t1.15752-9/518732106_1432521157784810_4236191864935155782_n.png?stp=dst-png_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=PegacEAHjYUQ7kNvwE_h9Cf&_nc_oc=AdmwHiIenOoGXtuR5egO-yjtLNOZP4UnpIZsQhKUW3WkDCjH3OshsnHGX8vcvbw8A9o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-2.fna&oh=03_Q7cD3AGPY_bRb-eseekM2x1hBM_dZ5hnDTUXTPX3gjyhEgpp3A&oe=68CEB2EB"
   },
         {
     id: 6,
     title: "Bag charms",
-    imageUrl: "https://scontent.flhe3-2.fna.fbcdn.net/v/t1.15752-9/520244288_1267810474939004_9048492148598199566_n.png?stp=dst-png_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=neIk5TZGFm4Q7kNvwEuXfQ_&_nc_oc=AdmxJ4KDwZ-uqPdqouvocGIJ_PMCJuOMaF7ERpOXqSlLAudbRPv9J7oqkY8r3siKLZI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe3-2.fna&oh=03_Q7cD2wFMPcWh2mt2rXhc_FNIMeleWIzjCbZQawAV-wDep1F7MQ&oe=68A70F62"
+    imageUrl: "https://scontent.flhe3-1.fna.fbcdn.net/v/t69.46293-2/521553686_717219624551674_674821928729006345_n.?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=942482&_nc_ohc=EvF10yKGwKoQ7kNvwEjI3ym&_nc_oc=AdnFOv3aW0E4Xj3EgiMrvL2C2HKlyb-2C-iBsUjKEp-iUJpKDtlgTmq0uwTUJglmMjQ&_nc_zt=28&_nc_ht=scontent.flhe3-1.fna&_nc_gid=wx5N5ME78mXcxPgxu59MUg&oh=03_Q7cD3AEdbk800nInS9kQaEtjnUzDioUC46RNH7b_Cd6OCvmSBQ&oe=68A90E15"
   },
 
 ];

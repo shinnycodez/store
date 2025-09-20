@@ -6,21 +6,21 @@ function HeroBanner() {
     {
       id: 1,
       imageUrl:
-        'https://scontent.flhe7-1.fna.fbcdn.net/v/t1.15752-9/518872764_1415560426367037_2606779215343537137_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=MriczGAqP2MQ7kNvwFV6UKM&_nc_oc=AdlMe14UmAW2oD-bC80kYTuYhUZHjUT7gWqGDJbGpJd5CQ-RqVm46Ioy1TH9hy_IKTk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-1.fna&oh=03_Q7cD3AEK4BrG4x-0uS7lFct2cOrn5LXbIODu4DM2Hd9Irgz8pA&oe=68CEA926',
+        'https://pbs.twimg.com/media/G1SrIhoXwAEf-Zf?format=png&name=small',
       title: 'Carry a little magic everywhere',
       subtitle: '',
     },
     {
       id: 2,
       imageUrl:
-        'https://scontent.flhe3-1.fna.fbcdn.net/v/t1.15752-9/520250629_1078276907743783_5894156676471813187_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=LlmJy0MKkRoQ7kNvwF94VsJ&_nc_oc=Admrgsig6OSUQ93YdosFbMTNeIKIZQn2bkW1FiuWNAVknbwnP8i8vqeXxgheCmcIFZo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe3-1.fna&oh=03_Q7cD3AGaFJVCUY-ce8-znB6CytXEwrMg9dNAiAXSSTgw7zGwrA&oe=68CEBBFC',
+        'https://pbs.twimg.com/media/G1SrQsKW4AE9tns?format=png&name=small',
       title: 'Carry a little magic everywhere',
       subtitle: '',
     },
     {
       id: 3,
       imageUrl:
-        'https://scontent.flhe7-1.fna.fbcdn.net/v/t1.15752-9/518981308_4116077575347762_429374228166904827_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=I-QKymNJHU0Q7kNvwEfGz_D&_nc_oc=AdnOStm6PUvqzrLm-rpmcPa-hZ3BdhUE8Ppy9vnigqKIJvtbgXcEm1Yh_cE1qV0P1DU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.flhe7-1.fna&oh=03_Q7cD3AHZWh1ngf8voi39JmhaBYocz9E7Gc9tnztjV-BMcTLooQ&oe=68CEAE9C',
+        'https://pbs.twimg.com/media/G1SrZQKXoAAtd1e?format=png&name=small',
       title: 'Carry a little magic everywhere',
       subtitle: '',
     },
